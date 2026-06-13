@@ -5,11 +5,13 @@
 | Qty | Description | Standard |
 |------|-------------|-----------|
 | 6 | M3 × 10 mm Socket Countersunk Screw | ISO 10642 |
-| 4 | M3 × 14 mm Socket Countersunk Screw | ISO 10642 |
+| 7 | M3 × 14 mm Socket Countersunk Screw | ISO 10642 |
 | 9 | M3 × 30 mm Socket Cap Head Screw | DIN 912 / ISO 4762 |
 | 2 | M3 × 20 mm Socket Cap Head Screw | DIN 912 / ISO 4762 |
+| 1 | M4 × 12 mm Socket Cap Head Screw | DIN 912 / ISO 4762 |
 | 11 | M3 Hex Nut | DIN 934 |
-| 4 | M3 Nylon Lock Nut | DIN 985 |
+| 7 | M3 Nylon Lock Nut | DIN 985 |
+| 1 | M4 Hex Nut | DIN 934 |
 
 ## 3D Printed Parts
 
