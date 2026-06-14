@@ -101,8 +101,20 @@ Actual performance may vary depending on tubing condition, fluid viscosity, roll
 [doc/WHERE_TO_BUY](docs/WHERE_TO_BUY.md)
 
 - 🎥 YouTube Video: https://youtu.be/laEK1ZIJFD0
+
+- 🎥 YouTube Update Video https://youtu.be/orrYBJg4-Hw
   
 - 📐 Onshape CAD: https://cad.onshape.com/documents/38ce336f3ba945738ff4eab6/w/76177a23119b3794901f380b/e/51ffb88a154799f7188256b8?renderMode=0&uiState=6a1dac8e073fa82755694582
+
+## Validation and Improvements
+
+Following approximately 30 hours of operation with diesel fuel, two design improvements were implemented:
+
+- The rotor locking system was redesigned using an embedded M4 nut and shaft locking screw.
+- Tube retention stops were added to prevent tube migration caused by fuel lubrication.
+
+These improvements are included in the current CAD files,printable parts and BOM.
+
 ## License
 
 This project is released under the terms described in LICENSE.txt.

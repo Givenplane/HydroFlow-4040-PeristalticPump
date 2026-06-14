@@ -33,9 +33,11 @@
 | 1 | PWM Motor Speed Controller (5–35 VDC, 5 A) |
 | 1 | 12 VDC Power Supply (5 A) |
 | 1 | Tygon F-4040-A tubing 3/16” ID × 5/16” OD (4.8 × 8 mm) |
+| 2 | Brass Hose Barb Union 5 mm × 5 mm (or 3/16" × 3/16") |
 
 ## Notes
 
 - The reference motor used during development is an XYT Motor Manufacture JGB37-520-CE (12 V, 200 RPM).
 - 30 × 30 mm 12V fans equivalent to common V6 hotend cooling fans can be used.
 - Equivalent fasteners from other manufacturers may be used provided dimensions and tolerances are maintained.
+- Two straight brass hose barb unions are used as tube retention stops. Commercial 5 mm or 3/16 in hose barb fittings are suitable.
